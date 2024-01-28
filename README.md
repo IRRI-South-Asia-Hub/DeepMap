@@ -41,4 +41,4 @@ A web server is working at https://test.pypi.org/project/DeepMap-1.0/.
 ## References
 
 * This research work is under-review and you are seeing in private mode. Please do not share the link.
-* The DeepMap is a deep learning based python package for genotype to phenotype mapping in rice breeding and can be utilize for other prediction-based studies. It is based on multiple genetic-interactions approach for data augmentation and objects for the simplicity/reproducibility of the research by employing four lines of genomic prediction code. Please contact, p.sinha@irri.org for more information.
+* The DeepMap is a deep learning based python package for genotype to phenotype mapping in rice breeding and can be utilize for other prediction-based studies. It is based on multiple genetic-interactions approach for data augmentation and objects for the simplicity/reproducibility of the research by employing four lines of genomic prediction code. Please contact Dr. Pallavi Sinha (p.sinha@irri.org) for more information.
